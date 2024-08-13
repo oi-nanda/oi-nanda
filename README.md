@@ -6,8 +6,7 @@
 📍This space is where I share my projects, code, and ideas that are constantly evolving. I’m always on the lookout for new challenges and opportunities to learn and grow
 
 ---
-<div >
-  <img src="https://streak-stats.demolab.com?user=oi-nanda&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" width="360" alt="streak graph" />
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oi-nanda&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=oi-nanda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
 </div>
